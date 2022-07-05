@@ -5,9 +5,10 @@ body {
 }
 
 .section-details {
-    height: 700px;
+    height: 600px;
     text-align: center;
     display: grid;
+    margin: auto;
 
 }
 
@@ -25,4 +26,26 @@ body {
     width: 560px;
     margin: auto;
     margin-top: 130px;
+}
+
+#top-banner p {
+    color: #ddd;
+    width: 620px;
+    margin: auto;
+    margin-top: 30px;
+    line-height: 25px;
+    font-weight: 100;
+    font-size: 18px;
+    margin-bottom: 50px;
+
+}
+
+.donation-button {
+    padding: 10px 35px;
+    color: white;
+    background-color: tomato;
+    border: 1px solid tomato;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: 800;
 }
