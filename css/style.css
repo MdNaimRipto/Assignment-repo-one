@@ -138,3 +138,7 @@ body {
     width: 300px;
     margin: 30px 0px;
 }
+
+.special-box {
+    background-color: rgb(255 254 211);
+}
