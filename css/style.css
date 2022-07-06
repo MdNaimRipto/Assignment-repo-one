@@ -49,3 +49,42 @@ body {
     font-size: 17px;
     font-weight: 800;
 }
+
+#donation-box h1 {
+    font-size: 40px;
+    font-weight: bold;
+    padding: 70px 0px 0px 0px;
+}
+
+#donation-box p {
+    color: gray;
+    font-size: 18px;
+    width: 530px;
+    line-height: 30px;
+    margin: auto;
+    padding-bottom: 30px;
+}
+
+.donation-amount {
+    width: 820px;
+    overflow: hidden;
+    margin: auto;
+}
+
+.donation-amount span {
+    width: 140px;
+    margin: 30px 10px;
+    display: block;
+    float: left;
+    font-size: 30px;
+    line-height: 110px;
+    color: gray;
+    font-weight: 600;
+
+}
+
+#special-span {
+    color: tomato;
+    border: 2px solid tomato;
+    border-radius: 4px;
+}
