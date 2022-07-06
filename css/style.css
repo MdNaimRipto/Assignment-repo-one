@@ -100,3 +100,41 @@ body {
     color: #d7d7d7f7;
     margin-bottom: 50px;
 }
+
+#donation-plan {
+    width: 1180px;
+    overflow: hidden;
+    margin: auto;
+}
+
+.donation-summary h1 {
+    font-size: 45px;
+    font-weight: bold;
+
+}
+
+.donation-summary p {
+    color: gray;
+    font-size: 18px;
+    width: 530px;
+    margin: auto;
+    line-height: 25px;
+    margin-bottom: 30px;
+}
+
+.donation-details {
+    width: 320px;
+    text-align: left;
+    padding: 30px 20px;
+    margin: 30px 15px;
+    display: block;
+    float: left;
+
+}
+
+.donation-details p {
+    color: gray;
+    font-size: 18px;
+    width: 300px;
+    margin: 30px 0px;
+}
