@@ -192,6 +192,7 @@ body {
 .update-text h1 {
     font-size: 45px;
     font-weight: bold;
+    margin-top: 60px;
 }
 
 .update-text p {
@@ -199,7 +200,11 @@ body {
     color: gray;
     line-height: 25px;
     width: 420px;
-    margin-bottom: 50px;
+    margin-bottom: 150px;
+}
+
+#update-email {
+    overflow: hidden;
 }
 
 .update-email {
@@ -230,5 +235,31 @@ body {
     font-size: 15px;
     font-weight: bold;
     margin-left: -5px;
+
+}
+
+footer {
+    background-color: #1a1a1a;
+}
+
+footer h2 {
+    font-size: 35px;
+    font-weight: bold;
+    color: #d54127;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: auto;
+    text-align: center;
+    padding: 30px 0px;
+    font-style: italic;
+}
+
+footer span {
+    color: #ddd;
+    text-align: center;
+    font-size: 18px;
+    width: 125px;
+    display: block;
+    margin: auto;
+    padding-bottom: 50px;
 
 }
