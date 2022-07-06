@@ -179,3 +179,56 @@ body {
     font-size: 18px;
     line-height: 25px;
 }
+
+#update-email {
+    overflow: hidden;
+}
+
+.update-text {
+    width: 400px;
+    margin: auto;
+}
+
+.update-text h1 {
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.update-text p {
+    font-size: 18px;
+    color: gray;
+    line-height: 25px;
+    width: 420px;
+    margin-bottom: 50px;
+}
+
+.update-email {
+    width: 700px;
+    height: 170px;
+    margin: auto;
+    line-height: 170px;
+    background-color: rgb(255 254 211);
+}
+
+.update-email input {
+    padding: 10px 40px 10px 5px;
+    text-align: left;
+    font-size: 15px;
+    font-weight: bold;
+    border: 2px solid #dbdbdb;
+    border-radius: 5px 0px 0px 5px;
+    background-color: #dbdbdb;
+
+}
+
+.update-email button {
+    padding: 10px 20px;
+    color: white;
+    background-color: tomato;
+    border: 2px solid tomato;
+    border-radius: 0px 5px 5px 0px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: -5px;
+
+}
