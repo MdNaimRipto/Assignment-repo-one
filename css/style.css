@@ -5,7 +5,7 @@ body {
 }
 
 .section-details {
-    height: 600px;
+    height: 700px;
     text-align: center;
     display: grid;
     margin: auto;
@@ -87,4 +87,16 @@ body {
     color: tomato;
     border: 2px solid tomato;
     border-radius: 4px;
+}
+
+#donation-custom-amount input {
+    border-bottom: 2px solid #d7d7d7f7;
+    border-top: 1px solid transparent;
+    border-left: 1px solid transparent;
+    border-right: 1px solid transparent;
+    padding: 15px 220px;
+    font-size: 18px;
+    text-align: center;
+    color: #d7d7d7f7;
+    margin-bottom: 50px;
 }
