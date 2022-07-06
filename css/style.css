@@ -142,3 +142,40 @@ body {
 .special-box {
     background-color: rgb(255 254 211);
 }
+
+.half-width {
+    width: 1200px;
+    margin: auto;
+    overflow: hidden;
+}
+
+.left-content {
+    display: block;
+    float: left;
+    width: 40%;
+    margin: 40px 50px;
+}
+
+.left-content img {
+    width: 100%;
+}
+
+.right-content {
+    display: block;
+    float: left;
+    width: 40%;
+    margin: 30px 10px;
+    text-align: left;
+}
+
+.right-content h1 {
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+
+.right-content p {
+    color: gray;
+    font-size: 18px;
+    line-height: 25px;
+}
